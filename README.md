@@ -2,7 +2,7 @@
 Hello friends, this is a Google image scraper repository. You can scrap use this to scrap images from Google image, provided the query string.
 
 ## Youtube video
-Here is a humble try to explain this through a [video]().
+Here is a humble try to explain this through a [video](https://youtu.be/9D6we6RgOSI).
 
 ## Create environment
 It is strongly recommended to use a separate environment for this project to avoid any dependency issues with the existing packages.
